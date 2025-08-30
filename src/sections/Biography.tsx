@@ -1,14 +1,16 @@
 import { Card, CardContent } from "@/components/ui/card"
-import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar"
 
 export default function Biography() {
   return (
     <Card className="flex-1 min-w-0 shadow-lg">
       <CardContent className="flex flex-col items-center gap-6 py-8">
-        <Avatar className="w-24 h-24">
-          <AvatarImage src="/profile.jpg" alt="Trevor Stevens" />
-          <AvatarFallback>TS</AvatarFallback>
-        </Avatar>
+        <div className="w-24 h-24 rounded-full overflow-hidden border-2 border-gray-200">
+          <img 
+            src="/assets/profile.jpg" 
+            alt="Trevor Stevens" 
+            className="object-cover object-top w-full h-full"
+          />
+        </div>
         <h2 className="text-2xl font-bold">Trevor Stevens</h2>
         <div className="flex flex-col items-center gap-2 text-gray-700">
           <span>Warwick, New York</span>
