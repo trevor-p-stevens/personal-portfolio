@@ -6,7 +6,7 @@ export default function Biography() {
       <CardContent className="flex flex-col items-center gap-6 py-8">
         <div className="w-24 h-24 rounded-full overflow-hidden border-2 border-gray-200">
           <img 
-            src="/assets/profile.jpg" 
+            src="/personal-portfolio/assets/profile.jpg" 
             alt="Trevor Stevens" 
             className="object-cover object-top w-full h-full"
           />
