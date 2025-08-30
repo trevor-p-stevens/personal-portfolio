@@ -47,9 +47,9 @@ export default function SpotlightsDetail() {
                 className="w-full h-full" 
                 onError={() => setVideoError(true)}
                 onClick={handlePlayVideo}
-                poster="/assets/spotme-thumbnail.jpg"
+                poster="/personal-portfolio/assets/spotme-thumbnail.jpg"
               >
-                <source src="/assets/spotme-mobile-demo.mp4" type="video/mp4" />
+                <source src="/personal-portfolio/assets/spotme-mobile-demo.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
             )}
