@@ -99,7 +99,7 @@ export default function PhatlyDetail() {
                   className="w-full h-full" 
                   onError={() => setWebVideoError(true)}
                   onClick={handlePlayWeb}
-                  poster="/personal-portfolio/assets/web-thumbnail.jpg"
+                  poster="/personal-portfolio/assets/phatly-web-thumbnail.jpg"
                 >
                   <source src="/personal-portfolio/assets/phatly-web-demo.webm" type="video/webm" />
                   Your browser does not support the video tag.
@@ -127,7 +127,7 @@ export default function PhatlyDetail() {
                   className="w-full h-full" 
                   onError={() => setMobileVideoError(true)}
                   onClick={handlePlayMobile}
-                  poster="/personal-portfolio/assets/mobile-thumbnail.jpg"
+                  poster="/personal-portfolio/assets/phatly-mobile-thumbnail.jpg"
                 >
                   <source src="/personal-portfolio/assets/phatly-mobile-demo.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
