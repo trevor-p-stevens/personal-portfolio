@@ -15,7 +15,7 @@ export default function Education({ type }: EducationProps) {
             <div className="text-gray-600 text-sm">East Lansing, MI | Fall 2023 – Spring 2027</div>
           </div>
           <div className="mb-2 text-gray-700">
-            Dual B.S. in <span className="font-semibold">Computer Science</span> and <span className="font-semibold">Statistics</span>, GPA: 3.94/4.00
+            Dual B.S. in <span className="font-semibold">Computer Science</span> and <span className="font-semibold">Computational Mathematics</span>, GPA: 3.94/4.00
           </div>
           <div className="mb-4 text-gray-700">
             Honors College and Presidential Scholarship Recipient

@@ -8,7 +8,7 @@ export default function KeySkills() {
         <div className="mb-4">
           <span className="font-semibold">Programming:</span>
           <ul className="list-disc ml-6 mt-2 space-y-1 text-gray-700 text-left">
-            <li>Python, C++, Visual Studio, AWS, Node.js, Rust, Typescript</li>
+            <li>Python, C++, Visual Studio, AWS, Node.js, Rust, Typescript, SQL</li>
           </ul>
         </div>
         <div className="mb-4">
