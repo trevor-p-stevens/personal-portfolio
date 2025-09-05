@@ -8,13 +8,13 @@ export default function KeySkills() {
         <div className="mb-4">
           <span className="font-semibold">Programming:</span>
           <ul className="list-disc ml-6 mt-2 space-y-1 text-gray-700 text-left">
-            <li>Python, C++, Visual Studio, AWS, Node.js, Rust, Typescript, SQL</li>
+            <li>Python, C++, Visual Studio, AWS, Node.js, Rust, Typescript, SQL, JavaScript, React Native, Vite, React</li>
           </ul>
         </div>
         <div className="mb-4">
           <span className="font-semibold">AI/ML:</span>
           <ul className="list-disc ml-6 mt-2 space-y-1 text-gray-700 text-left">
-            <li>PyTorch, PyTorch-Geometric, TensorFlow, Scikit-Learn, Numpy, Pandas</li>
+            <li>PyTorch, PyTorch-Geometric, TensorFlow, Scikit-Learn, NumPy, Pandas</li>
           </ul>
         </div>
         <div className="mb-4">

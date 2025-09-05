@@ -25,18 +25,31 @@ export default function Clubs() {
           </ul>
         </div>
         <div className="mb-6">
-          <div className="font-semibold text-left mb-1">AI Club – Member</div>
+          <div className="font-semibold text-left mb-1">AI Club - Member</div>
           <ul className="list-disc ml-6 space-y-1 text-gray-700 text-left">
             <li>
               Participated in workshops and hackathons focused on machine learning, neural networks, and AI applications. Collaborated with peers on small AI projects and attended guest lectures from industry professionals.
             </li>
           </ul>
         </div>
-        <div>
-          <div className="font-semibold text-left mb-1">Intramural Soccer & Volleyball – Team Member</div>
+        <div className="mb-6">
+          <div className="font-semibold text-left mb-1">
+            Burgess Institute for Entrepreneurship - Member
+          </div>
           <ul className="list-disc ml-6 space-y-1 text-gray-700 text-left">
             <li>
-              Played competitive soccer and volleyball in MSU’s intramural leagues, building teamwork and leadership skills.
+              Active participant in MSU's Burgess Institute for Entrepreneurship, engaging in workshops and networking events to develop entrepreneurial skills.
+            </li>
+            <li>
+              Currently starting my own company (see project section for more info).
+            </li>
+          </ul>
+        </div>
+        <div>
+          <div className="font-semibold text-left mb-1">Intramural Soccer & Volleyball - Team Member</div>
+          <ul className="list-disc ml-6 space-y-1 text-gray-700 text-left">
+            <li>
+              Played competitive soccer and volleyball in MSU's intramural leagues, building teamwork and leadership skills.
             </li>
           </ul>
         </div>

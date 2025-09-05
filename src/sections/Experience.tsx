@@ -7,7 +7,7 @@ export default function Experience() {
         <h2 className="text-2xl font-bold mb-4">Experience</h2>
         <div className="mb-4">
           <div className="font-semibold">Michigan State University, Heterogeneous Reasoning and Learning Lab</div>
-          <div className="text-gray-600 text-sm mb-1">Sep 2024 – Present</div>
+          <div className="text-gray-600 text-sm mb-1">Sep 2024 – Apr 2025</div>
           <div className="italic mb-2">Professorial Assistant Researcher / Software Engineer</div>
           <ul className="list-disc ml-6 space-y-1 text-gray-700 text-left">
             <li>Researched transformer neural networks for DNA sequencing analysis.</li>
