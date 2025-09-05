@@ -165,7 +165,7 @@ export default function PhatlyDetail() {
         <div>
           <h3 className="text-xl font-semibold mb-3">Current Status</h3>
           <p className="text-gray-700">
-            Phatly is currently transitioning from a personal project to a startup company. Our team is focused on expanding our music library partnerships and refining the user experience before our official launch.
+            Exploring Start-Up Potential
           </p>
         </div>
       </div>

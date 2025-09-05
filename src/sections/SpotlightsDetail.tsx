@@ -101,7 +101,7 @@ export default function SpotlightsDetail() {
         <div>
           <h3 className="text-xl font-semibold mb-3">Current Status</h3>
           <p className="text-gray-700">
-            SpotMe is currently undergoing review for the Apple iOS App Store. We're finalizing core features and preparing for a public launch in the coming months.
+            Exploring Start-Up Potential
           </p>
         </div>
       </div>

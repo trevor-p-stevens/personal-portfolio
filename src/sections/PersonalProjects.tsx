@@ -10,7 +10,7 @@ export default function PersonalProjects() {
         <div className="mb-6">
           <div className="font-semibold text-left mb-1">
             SpotMe - A Social Media Application
-            <span className="text-sm text-gray-600 ml-2">| Currently in Submission to the Apple iOS App Store</span>
+            <span className="text-sm text-gray-600 ml-2">| Exploring Start-Up Potential</span>
           </div>
           <ul className="list-disc ml-6 space-y-1 text-gray-700 text-left mb-2">
             <li>
@@ -27,7 +27,7 @@ export default function PersonalProjects() {
         <div className="mb-6">
           <div className="font-semibold text-left mb-1">
             Phatly - A Music Streaming Application
-            <span className="text-sm text-gray-600 ml-2">| In the process of starting as a company</span>
+            <span className="text-sm text-gray-600 ml-2">| Exploring Start-Up Potential</span>
           </div>
           <ul className="list-disc ml-6 space-y-1 text-gray-700 text-left mb-2">
             <li>
